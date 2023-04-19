@@ -9,4 +9,5 @@ Author: Prabu
 5. Hide last seen
 6. Adding the Video call feature
 7. Adding the Audio call Feature
-8. Adding status 
+8. Adding status
+9. We can use 8 members group video call.
